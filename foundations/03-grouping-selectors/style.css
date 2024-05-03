@@ -2,3 +2,11 @@
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
+#first_button {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+#second_button {
+    background-color: yellow;
+}
